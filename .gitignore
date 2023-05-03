@@ -2,6 +2,7 @@
 
 .vscode/
 
-# Ignore .cpp files
+# Ignore source code files
 
 *.cpp
+*.py
