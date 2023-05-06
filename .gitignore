@@ -5,3 +5,7 @@
 # Ignore unimplemented source files
 
 *_UNIMPLEMENTED
+
+# Ignore useless files
+
+*TODO.md
