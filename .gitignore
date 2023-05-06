@@ -9,3 +9,7 @@
 # Ignore useless files
 
 *TODO.md
+
+# Ignore icon source
+
+icons/
